@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const url = 'http://localhost:5000/posts';
+const url = '/posts';
 
 const API = axios.create({ baseURL: 'http://localhost:5000' });
 
