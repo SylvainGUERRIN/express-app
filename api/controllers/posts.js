@@ -2,7 +2,7 @@ import express from 'express';
 import mongoose from 'mongoose';
 
 import PostMessage from '../models/postMessage.js';
-import Posts from "../../site/src/components/Posts/Posts";
+//import Posts from "../../site/src/components/Posts/Posts";
 
 const router = express.Router();
 
